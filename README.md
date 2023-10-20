@@ -16,6 +16,9 @@ Game Features:
 
 Whether you're a fan of the original Snake game or new to the genre, "Snake.io PC v1.0.0" promises endless enjoyment. Test your skills and aim for the highest score in this classic game, where the focus is on gameplay and having a great time. Enjoy hours of entertainment with "Snake.io PC v1.0.0"
 
-Happy gaming, everyone! Look forward to meeting you with my new projects.
-
+Happy gaming, everyone! Look forward to meeting you with my new projects.<br>
 A$ | ©-2023
+
+Gameplay View ☟
+<p align="center"><img src="https://github.com/Amidu99/Snake.io-PC-v1.0.0/assets/125728431/16861a98-0e15-4b39-96e8-086d7ddb235e" width="900" alt="game_play"></p><br>
+<p align="center"><img src="https://github.com/Amidu99/Snake.io-PC-v1.0.0/assets/125728431/04c81dc4-40a8-40b9-b003-5be571bcf3f3" width="900" alt="game_play"></p><br>
